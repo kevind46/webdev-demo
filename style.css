@@ -4,3 +4,18 @@ body{
 #container{
     text-align:center;
 }
+
+.button{
+    background-color:blue;
+    color:white;
+    padding:10px 20px;
+    border-radius:5px;
+    cursor:pointer;
+    margin:10px;
+}
+.button:hover{
+    background-color:purple;
+}
+ul {
+    list-style-type: none;
+}
